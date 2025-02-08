@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://collection.cloudinary.com/dkprfbujm/f3ce405c239ef61a67c526efd2498027", // Music streaming URL
+        musicUrl: "https://res.cloudinary.com/dkprfbujm/video/upload/v1739039156/Daniel_Caesar_-_Sweet_zy4yms.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
